@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PaldomeChecker {
     public static boolean checker(String canidate ){
         return true;
-// make sure to make a
+
     }
     public static void main(String[] args) throws FileNotFoundException {
 
